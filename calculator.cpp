@@ -11,4 +11,9 @@ main()
   
     // It allows user to enter operator i.e. +, -, *, / 
     cin >> op; 
+ // It allow user to enter the operands 
+    cin >> num1 >> num2; 
   
+    // Switch statement begins 
+    switch (op) { 
+          
