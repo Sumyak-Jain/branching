@@ -18,12 +18,12 @@ main()
     switch (op) { 
          // If user enter +  
         case '+': 
-            cout << num1 + num2; 
+            cout << num1 + num2<<endl;; 
             break; 
           
         // If user enter -  
         case '-': 
-            cout << num1 - num2; 
+            cout << num1 - num2<<endl; 
             break; 
          // If user enter * 
         case '*': 
